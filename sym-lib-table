@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "connector_CAM")(type "KiCad")(uri "${KIPRJMOD}/5_pin_connector.pretty/connector_CAM.kicad_sym")(options "")(descr ""))
+)
